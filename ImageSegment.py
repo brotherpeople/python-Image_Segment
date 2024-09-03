@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 from sklearn.cluster import KMeans
 
-img = cv2.imread("Airplane.jpg")  # or "Tiger.jpg"
+img = cv2.imread("BSDS300/images/test/19021.jpg")  # set any image in the folder
 bgr2rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 # read image by cv2
