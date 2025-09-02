@@ -1,4 +1,10 @@
 # Image Color Quantization Project
+&nbsp;
+
+<div align="center">
+  <img width="600" height="215" alt="image" src="https://github.com/user-attachments/assets/d3049ce6-dea8-40cb-be09-30e425aa0398" />
+</div>
+&nbsp;
 
 ## Overview
 
